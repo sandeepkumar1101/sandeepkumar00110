@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandeepkumar00110
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Linux
+- 🌱 I’m currently learning docker-swarm
 - 💞️ I’m looking to collaborate on Linux-server open Source Projects
 
 <!---
